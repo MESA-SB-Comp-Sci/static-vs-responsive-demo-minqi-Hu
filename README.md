@@ -92,7 +92,7 @@ Drag your browser window from very wide to very narrow and back again. Then writ
 
 
 2. Did anything break or overflow (cause a sliding bar to apperer)?
-
+Box 3 and 4 kind
 
 
 3. If someone opened this page on a phone, what do you think it would look like?

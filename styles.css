@@ -39,22 +39,38 @@ p {
 /* Compleate challenge down here */
 
 .yellow-background{
-  background-color: yellow;
+  background-color: orange;
 }
 
 .green-background{
-  background-color: green;
-}
+  background-color: purple;
+  font-style:italic;
+  font-weight: bold;
+ }
 
 .blue-background{
-  background-color: blue;
+  background-color: pink;
 }
 
 .red-background{
-  background-color: red;
+  background-color: black;
 }
 
-#side-to-side{
-  display: inline-block; width: 25%
-  height: 50vh
-}
+#side-by-side{
+  display: inline-block;
+  height: 100vh;
+  margin: 1px;
+  width: 24%;
+  color: white;
+  padding: 1rem;
+ }
+
+ .big-heading{
+  font-size: 2rem;
+ }
+
+ .heading2{
+  font-size: 3vw;
+  margin-bottom: 2vh;
+  color: black;
+ }
